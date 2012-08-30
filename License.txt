@@ -1,0 +1,21 @@
+COPYRIGHT NOTICE
+
+This software is Copyright (c) 2004 by Lewis A. Sellers of Intrafoundation Software. It is not public domain, nor is it GPL'ed, but it is very close.
+
+As long as you do not modify any files in the original archive, nor add to them, nor delete any of them, and do not charge for access to said archive you may REDISTRIBUTE the original archive as you like.
+
+You may INCLUDE this software as-is with any third-party software you wish, so long as said original archive is also included unmodified with proper credits and a link to it's homesite at http://www.intrafoundation.com/CFXRegServer.asp is also included.
+
+You may USE or MODIFY the source code and software as you like. However, in all cases where said modifications or original software are included in A) software that is for SELL or B) REBRANDED and made available for PUBLIC distribution then it is required to conspiciously include a reciprocal link to IHTK's official web site as well as proper credits for said software.
+
+In all cases where this software, whether modified or in original condition, are used for exclusively internal purposes no public notification of use or mention of source are required.
+
+If DISTRIBUTION of derived software (for RESELL or REBRANDED) is on physical media, then the aforementioned archive must be included in all cases; however, if derived software is by distributed by a Wide Area Network (such as the Internet, America Online, and so forth) then it is permissible to make the archive available as a seperate download. In this case however, the archive must be physically hosted at the same site as your derived software (do NOT directly link back to the archive at intrafoundation.com) and appropriate credits, links to the IHTK homepage (http://www.intrafoundation.com/CFXRegServer.asp) and link to the copy of the archive you are locally hosting must clearly appear along with the main description of your derived software.
+
+If this software is used in a RELEASED project or included in a PUBLICATION you are to make reasonable efforts to contact the author and notify them as to such. The author of this software has a primary email address of: webmaster@intrafoundation.com.
+
+The statement all derived software (for RESELL or REBRANDED) much include on their splash screen or title page is:
+
+    Portions of this software were based in part upon CFXRegServer developed by Lewis Sellers of Intrafoundation Software. 
+
+You use this software at your own risk.

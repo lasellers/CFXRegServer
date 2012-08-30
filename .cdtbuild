@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 2.0.0?>
+
+<ManagedProjectBuildInfo>
+<target id="CFXRegServer.cdt.managedbuild.target.gnu.cygwin.exe.1047040753" name="Executable (Gnu on Windows)" parent="cdt.managedbuild.target.gnu.cygwin.exe" isAbstract="false" artifactName="CFXRegServer" isTest="false" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GASErrorParser">
+<configuration id="cdt.managedbuild.config.gnu.cygwin.exe.debug.1079359661" name="Debug" parent="cdt.managedbuild.config.gnu.cygwin.exe.debug">
+<toolReference id="cdt.managedbuild.tool.gnu.c.compiler" command="gcc" outputPrefix="" outputFlag="-o" outputs="o">
+<optionReference id="gnu.c.compiler.option.optimization.level" defaultValue="gnu.c.optimization.level.none"/>
+<optionReference id="gnu.c.compiler.option.debugging.level" defaultValue="gnu.c.debugging.level.max"/>
+</toolReference>
+<toolReference id="cdt.managedbuild.tool.gnu.cpp.compiler" command="g++" outputPrefix="" outputFlag="-o" outputs="o">
+<optionReference id="gnu.cpp.compiler.option.optimization.level" defaultValue="gnu.cpp.compiler.optimization.level.none"/>
+<optionReference id="gnu.cpp.compiler.option.debugging.level" defaultValue="gnu.cpp.compiler.debugging.level.max"/>
+</toolReference>
+</configuration>
+<configuration id="cdt.managedbuild.config.gnu.cygwin.exe.release.369369958" name="Release" parent="cdt.managedbuild.config.gnu.cygwin.exe.release">
+<toolReference id="cdt.managedbuild.tool.gnu.c.compiler" command="gcc" outputPrefix="" outputFlag="-o" outputs="o">
+<optionReference id="gnu.c.compiler.option.optimization.level" defaultValue="gnu.c.optimization.level.most"/>
+<optionReference id="gnu.c.compiler.option.debugging.level" defaultValue="gnu.c.debugging.level.none"/>
+</toolReference>
+<toolReference id="cdt.managedbuild.tool.gnu.cpp.compiler" command="g++" outputPrefix="" outputFlag="-o" outputs="o">
+<optionReference id="gnu.cpp.compiler.option.optimization.level" defaultValue="gnu.cpp.compiler.optimization.level.most"/>
+<optionReference id="gnu.cpp.compiler.option.debugging.level" defaultValue="gnu.cpp.compiler.debugging.level.none"/>
+</toolReference>
+</configuration>
+</target>
+</ManagedProjectBuildInfo>
