@@ -40,3 +40,7 @@ installer/
 *.asp
 *.php
 *.css
+
+*.project
+*.cdtbuild
+*.cdtproject
